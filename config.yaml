@@ -1,0 +1,5 @@
+app_name: MyfirstApp
+settings:
+  debug: true
+  logging_level: info
+version: 1.0.0
